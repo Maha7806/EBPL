@@ -1,4 +1,4 @@
-# EBPL
+III# EBPL
 A EBPL project about building a smart dashboard for structural health monitoring
 # 🏢 Smart Building Health Dashboard with Simulated Sensors
 
@@ -79,7 +79,7 @@ Alerts are triggered if values exceed safe thresholds.
 
 ## 🧑‍💻 Author
 
-**Your Name**  
+Maha lekshmi M 
 Feel free to reach out or fork the project!
 
 ---
