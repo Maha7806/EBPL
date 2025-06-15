@@ -1,5 +1,4 @@
-III# EBPL
-A EBPL project about building a smart dashboard for structural health monitoring
+
 # 🏢 Smart Building Health Dashboard with Simulated Sensors
 
 This project is a **real-time structural health monitoring dashboard** for buildings, using **simulated sensor data**. It helps visualize and track key metrics like vibration, temperature, strain, and humidity — all without requiring physical sensors.
